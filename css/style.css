@@ -924,6 +924,11 @@ ul {
     font-size: 40px;
     opacity: 0.2;
 }
+@media (max-width: 767px) {
+    .friends-page .info a {
+        font-size: 13px;
+    }
+}
 /* End Friends Page */
 /* Start Files Page */
 .files-page {
