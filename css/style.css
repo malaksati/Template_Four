@@ -929,6 +929,9 @@ ul {
         display: block;
         font-size: 11px;
     }
+    .friends-page .info a:first-child {
+        margin-bottom: 5px;
+    }
 }
 /* End Friends Page */
 /* Start Files Page */
