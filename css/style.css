@@ -926,7 +926,8 @@ ul {
 }
 @media (max-width: 767px) {
     .friends-page .info a {
-        font-size: 13px;
+        display: block;
+        font-size: 11px;
     }
 }
 /* End Friends Page */
